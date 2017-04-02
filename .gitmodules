@@ -1,0 +1,3 @@
+[submodule "src/plugins/aws-sam-plugin-dead-letter-queue"]
+	path = src/plugins/aws-sam-plugin-dead-letter-queue
+	url = https://github.com/knakayama/aws-sam-plugin-dead-letter-queue.git
